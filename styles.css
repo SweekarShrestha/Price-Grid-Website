@@ -1,0 +1,83 @@
+body
+{
+  background-color: hsl(204, 43%, 93%);
+  height: 100vh;
+}
+
+h1
+{
+  color: hsl(179, 62%, 43%);
+}
+
+p
+{
+  color: hsl(204, 43%, 93%);
+}
+
+h3
+{
+  color: white;
+}
+
+span
+{
+  font-size: 2rem;
+  padding-right: 10px;
+  font-weight: bold;
+}
+
+.intro-para
+{
+  color: hsl(218, 22%, 67%);
+}
+
+.wrapper
+{
+  padding: 200px 300px 0 300px;
+}
+
+.row1
+{
+  background-color: white;
+  padding: 50px
+}
+
+.columns
+{
+  padding: 50px;
+}
+
+.col1
+{
+  background-color: hsl(179, 62%, 43%);
+}
+
+.col2
+{
+  background-color: #4abebd;
+}
+
+.custom-button
+{
+  background-color: #badd3c;
+  border-radius: 10px;
+  padding: auto 30px;
+  border-color: #badd3c;
+}
+
+.custom-button:hover
+{
+  background-color: green;
+  border-color: green;
+}
+
+.deal
+{
+  color: #badd3c;
+  padding-top: 20px auto;
+}
+
+.para
+{
+  padding-top: 30px;
+}
